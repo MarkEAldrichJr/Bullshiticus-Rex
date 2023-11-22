@@ -54,6 +54,7 @@ Then give your players a starting off point: They’re refugees running from a w
 scrappers looking for the next haul, high school dropouts trying to stay away from
 drugs.  Whatever helps them come up with characters that are supposed to be together.
 
+
 Lastly, come up with a Theme for your story.  An idea for your players to mull over,
 and ask your players a question about that Theme.  If it’s a good Theme and question,
 there should be obvious points of disagreement between the player-characters, which
@@ -66,10 +67,12 @@ Cloning.  Is the guy who just walked out of the pod actually your friend?
 Innocence.  Should children be exposed to the harsh realities of life?
 Robots.  What is the crossover point between a war machine and a man?
 
+
 Finally, create a simple opening for the players.  A room, a crowded hallway, a farm,
 etc.  And put your drawing in the middle of the play space.  Alternatively, you can
 describe the place verbally, and players draw it with their brains.  Describe the
 area, the immediate situation, and ask the players what they want to do first.
+
 
 ON BULLSHIT
 The rest of it is bullshit.  Make up things as you go.  Base what you make on
@@ -88,59 +91,134 @@ record any new rules, so you can apply them consistently later.
 
 
 GAMEPLAY
-Outside of combat
+OUTSIDE OF COMBAT
 Players do not need to go in turn, but should be courteous to players who haven’t had
 an opportunity to act.  Players can move around, talk to people, and interact with
 their environment.
 
-In Combat
+
+IN COMBAT
 Fights are more rigid to ensure all players have their share of action.  In combat,
 all members of a side go before all members of the opposing side.  Combat starts with
 the group that is most prepared for a fight.  Ambushers go first if it is a surprise 
-attack.  Players go in seating order, with the player to the left of the GM going first.
-NPC enemies and allies go first based on whatever order the GM put them in.  During
-combat, players may move up to 5 body-lengths and perform one stat check or ability.
+attack.  Players go in seating order, with the player to the left of the GM going
+first.  NPC enemies and allies go first based on whatever order the GM put them in.
+During combat, players may move up to 5 body-lengths and perform one stat check or
+ability.
 
-Stat Checks
+
+STAT CHECKS
 Basic actions that we do every day without thought or effort, such as opening doors
-or picking up light objects do not require any kind of check.  Things that require effort or skill are done with Stat Checks, which is a dice roll added to a stat and an equipment bonus. EXAMPLE: Hacking a computer requires you beat a 10 in Knowledge, you have 4 Kno, and a +3 Hacking Implant.  So 4 + 3 + 1d6.  Alternatively, breaking the computer requires you beat a 4 in Strength.  You have 2 Str, and a +2 broadsword, so 2 + 2 + 1d6.  Rolling a 1 is an instant failure at the task, and the GM supplies the number to be beaten.
+or picking up light objects do not require any kind of check.  Things that require
+effort or skill are done with Stat Checks, which is a dice roll added to a stat and
+an equipment bonus. EXAMPLE: Hacking a computer requires you beat a 10 in Knowledge,
+you have 4 Kno, and a +3 Hacking Implant.  So 4 + 3 + 1d6.  Alternatively, breaking
+the computer requires you beat a 4 in Strength.  You have 2 Str, and a +2
+broadsword, so 2 + 2 + 1d6.  Rolling a 1 is an instant failure at the task, and the
+GM supplies the number to be beaten.
 
-Equipment
-Any item that provides a bonus to a stat check.  Examples include body armor, which increases your AR by 2, or a sword, which provides +1 to melee attacks.  Equipment can also offer new abilities and passives not available to the player, such as missile deflection or access to powerful spells.
 
-Players that use equipment not suited to their character do so with half the usual bonus, and cannot use that equipment’s unique abilities.  They will need to use it for a (GM-determined) amount of time before unlocking its full potential.
+EQUIPMENT
+Any item that provides a bonus to a stat check.  Examples include body armor, which
+increases your AR by 2, or a sword, which provides +1 to melee attacks.  Equipment
+can also offer new abilities and passives not available to the player, such as
+missile deflection or access to powerful spells.
 
-Items in the player’s inventory should be listed next to the character stats, with special items getting their own notecards.  The maximum amount of carryable equipment is up to the discretion of the GM.
+Players that use equipment not suited to their character do so with half the usual
+bonus, and cannot use that equipment’s unique abilities.  They will need to use it
+for a (GM-determined) amount of time before unlocking its full potential.
 
-Abilities
-Abilities are special actions and powers that require more than just regular effort.  These are spells, special moves, and miracles that can only be performed by special individuals (AKA: the player characters).  They are created by the players by spending Ability Points (AP) at any point during the first level, then only on level-up after that.  New abilities and their effects should be written on their own notecards separate from the player card.
+Items in the player’s inventory should be listed next to the character stats, with
+special items getting their own notecards.  The maximum amount of carryable
+equipment is up to the discretion of the GM.
 
-Every player starts the game with 10AP, but gains 2AP on level-up, and can gain additional AP from the GM as a reward for completing story-beats specific to the character.  Each ability they create uses 1AP per dice rolled, 1AP for each effect, and 1AP if the attack is at range.  1AP is removed if the ability expends a resource.  The GM has final say on how many AP are spent on an ability and how the effects work within the game.  All abilities cost a minimum of 1AP.
 
-Damaging abilities go against enemy armor (AR).  If the dice roll + equipment + stat are lower than AR, the attack does not hit and there is no effect.  If it IS higher, the damage dealt is the difference between the total and AR, so if the total is 10, and the enemy has 8AR, final damage is 2, and the ability effect takes hold.  Abilities that do not do damage, but only apply an effect, must pass an enemy’s stat check to work.  So your dice roll plus a stat vs the enemy’s stat.  If you think an ability is an exception to this rule, discuss it with the GM.
+ABILITIES
+Abilities are special actions and powers that require more than just regular
+effort.  These are spells, special moves, and miracles that can only be performed
+by special individuals (AKA: the player characters).  They are created by the
+players by spending Ability Points (AP) at any point during the first level, then
+only on level-up after that.  New abilities and their effects should be written
+on their own notecards separate from the player card.
 
-EX: Power Attack: hurts an enemy and knocks them over: 1d6 + Str for damage, and knocks them over.  2AP.
-Firebolt: damages an enemy at range, and sets them on fire: 2d6 + Kno, at range, and sets them on fire.  4AP.
-Pocket Sand: blind an enemy, uses sand: 1d6 + Str vs Ref, blinds enemy.  It would be 2AP, but it requires sand, so 1AP
-Calm Creature: make a hostile monster passive:  2d6 + Char vs Int, passive enemy.  3AP
-Scary Visage: gives an ally a scary face for 3 rounds, a chance to scare an opponent on their attacks.  1d6 + 3 vs Awa.  3AP
+Every player starts the game with 10AP, but gains 2AP on level-up, and can gain
+additional AP from the GM as a reward for completing story-beats specific to the
+character.  Each ability they create uses 1AP per dice rolled, 1AP for each
+effect, and 1AP if the attack is at range.  1AP is removed if the ability expends
+a resource.  The GM has final say on how many AP are spent on an ability and how
+the effects work within the game.  All abilities cost a minimum of 1AP.
+
+Damaging abilities go against enemy armor (AR).  If the dice roll + equipment +
+stat are lower than AR, the attack does not hit and there is no effect.  If it IS
+higher, the damage dealt is the difference between the total and AR, so if the
+total is 10, and the enemy has 8AR, final damage is 2, and the ability effect takes
+hold.  Abilities that do not do damage, but only apply an effect, must pass an
+enemy’s stat check to work.  So your dice roll plus a stat vs the enemy’s stat.  If
+you think an ability is an exception to these rules, discuss it with the GM.
+
+ABILITY EXAMPLES
+Power Attack: hurts an enemy and knocks them over: 1d6 + Str for damage, and knocks
+them over.  2AP
+Firebolt: damages an enemy at range, and sets them on fire: 2d6 + Kno, at range, and
+sets them on fire.  4AP
+Pocket Sand: blind an enemy, uses sand: 1d6 + Str vs Ref, blinds enemy.  It would be
+2AP, but it requires sand, so 1AP
+Calm Creature: make a hostile monster passive:  2d6 + Char vs Int, passive enemy.  
+3AP
+Scary Visage: gives an ally a scary face for 3 rounds, a chance to scare an opponent
+on their attacks.  1d6 + 3 vs Awa.  3AP
 Lock: Locks a door, window, box, or cabinet.  1d6 + Kno sets the lock strength. 2AP
 
-Passive Abilities: Always-active abilities that work in the background.  These cost slightly more than regular abilities, and are slightly less effective.
 
-EX: Handsome: Double Charisma on stat checks when speaking to someone who is attracted to you. 2AP.
-Aura: unconscious characters around you regain 1HP and wake up if your turn ends within 5 feet of them.  2AP.
+PASSIVE ABILITIES
+Always-active abilities that work in the background.  These cost slightly more than
+regular abilities, and are slightly less effective.
 
-Abstract Points
-Normal abilities can be performed once between rests, but some characters may allow (with the GM’s approval) character-specific points that allow them to use certain abilities multiple times, then refill the points during a rest or by using resources.  Examples of Abstract Points are Spirit Points for monks, or Blood-Alcohol Content for drunken boxers.  These would be tracked by the player on the stat side of their card.
+EXAMPLES
+Handsome: Double Charisma on stat checks when speaking to someone who is attracted to
+you. 2AP
+Aura: unconscious characters around you regain 1HP and wake up if your turn ends
+within 5 feet of them.  2AP
 
-Death:
-When a player’s HP falls below 0, they fall unconscious, and can no longer move or perform actions.  Another player can spend their action to help the unconscious player, restoring 2HP.  Player death can usually only occur when all players are unconscious, though that is at the GMs discretion.  Really, death is entirely at the behest of the GM, and can happen at any time if the players are morons.  EXAMPLE: If a character jumps head-first into a wood chipper, they die.
+
+ABSTRACT POINTS
+Normal abilities can be performed once between rests, but some characters may allow
+(with the GM’s approval) character-specific points that allow them to use certain
+abilities multiple times, then refill the points during a rest or by using resources.
+Examples of Abstract Points are Spirit Points for monks, or Blood-Alcohol Content for
+drunken boxers.  These would be tracked by the player on the stat side of their card.
 
 
-Level Up:
-Level-ups are done by milestones only.  These milestones can be anything from beating a boss, completing a story, or whenever else the GM decides.
+DEATH
+When a player’s HP falls below 0, they fall unconscious, and can no longer move or
+perform actions.  Another player can spend their action to help the unconscious
+player, restoring 2HP.  Player death can usually only occur when all players are
+unconscious, though that is at the GMs discretion.  Really, death is entirely at the
+behest of the GM, and can happen at any time if the players are morons.
 
-On level-up, players gain 2AP.  They can spend these points on new abilities, upgrades to existing abilities, or stat increases.  They may also save up points as “latent AP” to spend on a later level-up.  There is no limit to the amount of latent AP a player can have.  However, after the first level, new abilities can only be created on level-up.
+EXAMPLE
+If a character jumps head-first into a wood chipper, they die.
+
+
+LEVEL UP
+Level-ups are done by milestones only.  These milestones can be anything from beating
+a boss, completing a story, or whenever else the GM decides.
+
+On level-up, players gain 2AP.  They can spend these points on new abilities, upgrades
+to existing abilities, or stat increases.  They may also save up points as “latent AP”
+to spend on a later level-up.  There is no limit to the amount of latent AP a player
+can have.  However, after the first level, new abilities can only be created on
+level-up.
 
 After applying or saving AP, players increase their health by 1d6 + Str.
+
+
+
+FINAL THOUGHTS
+The primary goal of Bullshiticus Rex is to create universal fun for as many players and
+GMs as possible by minimizing rules, maximizing creative input, and requiring minimal
+effort and materials to get started.  I hope you get as much enjoyment playing it as I
+had making it!
+
+If any language is confusing, or the grammar is off anywhere, sorry!  I'm bad a words,
+and will fix it once I'm told about it.
