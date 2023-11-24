@@ -1,0 +1,32 @@
+FRONT OF SHEET
+______________________________________________
+|T237 Carolina                   Mark Aldrich|
+|Manufactured in 1886, T237 was built to haul|
+|heavy loads across vast fields and winding  |
+|mountain tracks alike, and they have done so|
+|for many years.  But, with rising           |
+|maintenance costs, and shiny new diesel     |
+|trains hitting the tracks, they know their  |
+|time is limited.  If T237 could have one    |
+|last good, cross-country haul, they could be|
+|decommissioned happy.                       |
+|                                            |
+|T237 thinks the train with the most         |
+|experience should be in charge, but is      |
+|always willing to hear out an upstart with  |
+|initiative!                                 |
+|____________________________________________|
+
+BACK OF SHEET
+______________________________________________
+|Str  6     HP 13|  EQUIPMENT                |
+|Ref  1 MAX HP 13|  5x Passenger Cars        |
+|Kno  3     AR 1 |  13x Light Freight        |
+|Int  5     AP 10|  3x Heavy Freight         |
+|Cha  4          |  1x Caboose               |
+|Awa  2          |                           |
+|      Coal      |                           |
+|* * * * * * * * * *                         |
+|________________|___________________________|
+
+Note: coal is an abstract point system, spent by T237 on abilities that involve movement.
