@@ -1,6 +1,27 @@
 FRONT OF SHEET
-__________________________
-Napoleon Bonaparte     Mark Aldrich
-Born on the island of Corsica into a family of Italian nobility,
+__________________________________________________________
+|Napoleon Bonaparte                          Mark Aldrich|
+|Born on the island of Corsica into a family of Italian  |
+|nobility, Napoleon was resentful of the French monarchy.|
+|After serving during the French Revolution, he quickly  |
+|rose through the ranks and earned his place as a        |
+|national hero.  But he sees flaws in the French armies, |
+|as well as potential.  With a swift stroke, he could    |
+|take the nation, and build an empire!                   |
+|                                                        |
+|  Napoleon believes he should lead, and others should   |
+|follow.                                                 |
+|________________________________________________________|
 
-I'll finish this one later.
+BACK OF SHEET
+__________________________________________________________
+|Str  1     HP 11|  EQUIPMENT                            |
+|Ref  2 MAX HP 11|  General's Uniform                    |
+|Kno  4     AR 2 |  Telescope +2 Awa                     |
+|Int  6     AP 10|  40,000 Soldiers                      |
+|Cha  5          |  10,000 Sailors                       |
+|Awa  3          |  Ceremonial Sabre +1 Str              |
+|________________|_______________________________________|
+
+Note: if deciding a battle using solely troop numbers, Napoleon alone
+counts for 40,000 men not including the ones in his retinue.
