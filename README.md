@@ -18,4 +18,4 @@ A simplified TTRPG template that relies on the players and GM to bullshit rules 
   * Show me your art, or I'll die!
   * BR is mine, but you are free to do with it what you want commerically or otherwise.  It is available under the MIT License.  I'm no lawyer, but I THINK that could be applied to this?  Let me know if I'm wrong.
   * If it DOES apply to BR, you are free to make and profit on whatever you want, but attribution is greatly appreciated.
-* Donate!   patreon.com/MarkAldrich  My blind refugee nun dog needs new legs!
+* [Donate!](patreon.com/MarkAldrich)  My blind refugee nun dog needs new legs!
