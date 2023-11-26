@@ -1,25 +1,29 @@
+By Mark Aldrich
+
 These are the rules for my simple TTRPG, Bullshiticus Rex.  Meant to be played among
 friends, non-competitively.  Players build their characters in minutes, and bullshit
 powers for them as necessary.  The Game Master reigns in this bullshit and creates
 bullshit of their own.  Have fun!
 
-Each Player Will Need  a d6 dice, a stack of notecards, a pencil, 2¼ ounces
+Each Player Will Need:  a d6 dice, a stack of notecards, a pencil, 2¼ ounces
 imagination
-The GameMaster (GM) Will Need  5 d6 dice, a notebook, a pencil, 25 heaping lbs
+The GameMaster (GM) Will Need:  5 d6 dice, a notebook, a pencil, 25 heaping lbs
 bullshit
 
 TO START
 
 PLAYERS
 Take a notecard.  This is your player sheet.  In the upper left hand corner, write
-your character’s name.  In the right hand corner, put your actual name.  Below that,
-write a paragraph about your character.  Their past and what they want should be
-more than enough to start.  Just make sure anything you write jives with the GM’s
+your character’s name.  In the upper right hand corner, put your actual name.  Below
+that, write a paragraph about your character.  Their past and what they want should
+be more than enough to start.  Just make sure anything you write jives with the GM’s
 setting, because the GM has full authority to deny that character.  Leave some space
 at the bottom, the GM will have you fill that later.
 
 On the other side of the card, write the following stats on the far left edge:
-Strength | Reflexes | Knowledge | Intuition | Charisma | Awareness
+Strength(Str) | Reflexes(Ref)
+Knowledge(Kno) | Intuition(Int)
+Charisma(Cha) | Awareness(Awa)
 
 Assign each a value 6-1, with no repeats, based on what strengths or weaknesses your
 character might have (a strong, stupid character would have Str 6 and Kno 1).
@@ -33,8 +37,8 @@ Charisma: Your ability to sway the opinions of others.
 Awareness: Your ability to read the opinions of others.  Being able to tell what is
 around you.
 
-Next to your stats, write in HP, with AR below it.  HP is your Health Points.  HP
-goes down when you are attacked, and goes up when you are healed.  If HP reaches 0,
+Next to your stats, write in HP, with Max HP and AR below it.  HP is your Health Points.
+HP goes down when you are attacked, and goes up when you are healed.  If HP reaches 0,
 you fall unconscious until helped by a friendly character.  Add your values for
 Strength, Intuition, and Awareness together, divide by 2, round up, and add 6.  This
 is your HP.  AR is your Armor Value, which reduces incoming damage.  Your AR is just
@@ -54,12 +58,14 @@ Then give your players a starting off point: They’re refugees running from a w
 scrappers looking for the next haul, high school dropouts trying to stay away from
 drugs.  Whatever helps them come up with characters that are supposed to be together.
 
+Have the players create their characters now, and follow the next step after they
+describe their creations to the group.
 
-Lastly, come up with a Theme for your story.  An idea for your players to mull over,
-and ask your players a question about that Theme.  If it’s a good Theme and question,
-there should be obvious points of disagreement between the player-characters, which
-you can use to create interesting dynamics between them.  Players should write their
-answer in the remaining space below their character description.
+Come up with a Theme for your story (an idea for your players to mull over) and ask
+your players a question about that Theme.  If it’s a good Theme and question,
+there should be obvious points of disagreement between the characters, which you can
+use to create interesting dynamics between them.  Players should write their answer
+in the remaining space below their character description.
 
 Example Themes:
 Power.  What kind of person should be in charge during a crisis?
@@ -69,16 +75,17 @@ Robots.  What is the crossover point between a war machine and a man?
 
 
 Finally, create a simple opening for the players.  A room, a crowded hallway, a farm,
-etc.  And put your drawing in the middle of the play space.  Alternatively, you can
-describe the place verbally, and players draw it with their brains.  Describe the
-area, the immediate situation, and ask the players what they want to do first.
+etc.  If you drew a map, put your drawing in the middle of the play space.
+Alternatively, you can describe the place verbally, and players draw it with their
+brains.  Describe the area, the immediate situation, and ask the players what they
+want to do first.
 
 
 ON BULLSHIT
 The rest of it is bullshit.  Make up things as you go.  Base what you make on
 character decisions, backgrounds, and the setting itself.  Throw things and enemies
-together on the fly, and make peace with the fact the players will probably break
-your baby five minutes after you tell them about it.  
+together on the fly, and make peace with the fact the players will probably stomp
+on your baby five minutes after you tell them about it.  
 
 Do not be afraid to tell your players the magical word “no” when their bullshit
 flies in the face of your bullshit.  Pulling a rabbit out of the proverbial hat can
@@ -131,6 +138,10 @@ for a (GM-determined) amount of time before unlocking its full potential.
 Items in the player’s inventory should be listed next to the character stats, with
 special items getting their own notecards.  The maximum amount of carryable
 equipment is up to the discretion of the GM.
+
+Players may also collect resources, raw materials that are required to use certain
+abilities.  Resources may be used with abilities or on their own, depending on the
+situation.  IE: Using grease to cause a fire.
 
 
 ABILITIES
@@ -189,6 +200,14 @@ Examples of Abstract Points are Spirit Points for monks, or Blood-Alcohol Conten
 drunken boxers.  These would be tracked by the player on the stat side of their card.
 
 
+RESTING
+Resting can happen when the players are in a safe location, away from enemies, and
+agree to take a rest.  Resting refills HP and abstract points, removes effects that
+the GM allows, and marks a moment when nothing interesting happens, so you are free
+to go pee and get snacks.  If time is a significant factor in their setting, the GM
+should choose a number of rests that would mark the end of the day.
+
+
 DEATH
 When a player’s HP falls below 0, they fall unconscious, and can no longer move or
 perform actions.  Another player can spend their action to help the unconscious
@@ -201,7 +220,7 @@ If a character jumps head-first into a wood chipper, they die.
 
 
 LEVEL UP
-Level-ups are done by milestones only.  These milestones can be anything from beating
+Level-ups are done by milestone only.  These milestones can be anything from beating
 a boss, completing a story, or whenever else the GM decides.
 
 On level-up, players gain 2AP.  They can spend these points on new abilities, upgrades
@@ -218,7 +237,7 @@ FINAL THOUGHTS
 The primary goal of Bullshiticus Rex is to create universal fun for as many players and
 GMs as possible by minimizing rules, maximizing creative input, and requiring minimal
 effort and materials to get started.  I hope you get as much enjoyment playing it as I
-had making it!
+had making it!  - Mark
 
-If any language is confusing, or the grammar is off anywhere, sorry!  I'm bad a words,
+PS: If any language is confusing, or the grammar is off anywhere, sorry!  I'm bad a words,
 and will fix it once I'm told about it.
