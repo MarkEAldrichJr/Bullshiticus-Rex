@@ -1,55 +1,15 @@
 By Mark Aldrich
 
-These are the rules for my simple TTRPG, Bullshiticus Rex.  Meant to be played among
-friends, non-competitively.  Players build their characters in minutes, and bullshit
-powers for them as necessary.  The Game Master reigns in this bullshit and creates
-bullshit of their own.  Have fun!
+These are the rules for my simple TTRPG, Bullshiticus Rex.  BR is a classless system played
+with scrap paper and dice stolen from other board games.  Players create their abilities on the
+fly, and the Game Master responds in kind.
 
-Each Player Will Need:  a d6 dice, a stack of notecards, a pencil, 2¼ ounces
-imagination
-The GameMaster (GM) Will Need:  5 d6 dice, a notebook, a pencil, 25 heaping lbs
-bullshit
+Each Player Will Need:  a d6 dice, a stack of scrap paper, a pencil, 2¼ ounces imagination
+The GameMaster (GM) Will Need:  a d6 dice, a notebook, a pencil, 25 heaping lbs bullshit
 
-TO START
+SESSION ZERO
 
-PLAYERS
-Take a notecard.  This is your player sheet.  In the upper left hand corner, write
-your character’s name.  In the upper right hand corner, put your actual name.  Below
-that, write a paragraph about your character.  Their past and what they want should
-be more than enough to start.  Just make sure anything you write jives with the GM’s
-setting, because the GM has full authority to deny that character.  Leave some space
-at the bottom, the GM will have you fill that later.
-
-On the other side of the card, write the following stats on the far left edge:
-Strength(Str) | Reflexes(Ref)
-Knowledge(Kno) | Intuition(Int)
-Charisma(Cha) | Awareness(Awa)
-
-Assign each a value 6-1, with no repeats, based on what strengths or weaknesses your
-character might have (a strong, stupid character would have Str 6 and Kno 1).
-Here’s a description of each stat:
-
-Strength: Physical prowess.  They can lift heavy things and swing swords hard.
-Reflexes: Their ability to dodge, balance, walk silently, and aim.
-Knowledge: The amount you know and your ability to pick up new things.
-Intuition: Life experience telling you which move is the right move.
-Charisma: Your ability to sway the opinions of others.
-Awareness: Your ability to read the opinions of others.  Being able to tell what is
-around you.
-
-Next to your stats, write in HP, with Max HP and AR below it.  HP is your Health Points.
-HP goes down when you are attacked, and goes up when you are healed.  If HP reaches 0,
-you fall unconscious until helped by a friendly character.  Add your values for
-Strength, Intuition, and Awareness together, divide by 2, round up, and add 6.  This
-is your HP.  AR is your Armor Value, which reduces incoming damage.  Your AR is just
-your Reflexes, plus the value of any protective equipment you are wearing.
-
-Finally, Write “AP” below AR, and write 10 next to it.  AP is discussed later in
-this manual.
-
-
-
-GAME MASTER
+CREATING A SETTING
 Give your players a basic setting to work within: Fantasy apocalypse, The Old West,
 a haunted spaceship, The Punic Wars, but with Dragons, etc.  Nothing too specific,
 the details should be based on what your players create.
@@ -57,6 +17,10 @@ the details should be based on what your players create.
 Then give your players a starting off point: They’re refugees running from a war,
 scrappers looking for the next haul, high school dropouts trying to stay away from
 drugs.  Whatever helps them come up with characters that are supposed to be together.
+
+You should also come up with some general guidelines the players can use when creating
+abilities, such as the size of the average character, travel time between locations, the range of
+attacks, and anything else that would help them create their first abilities.
 
 Have the players create their characters now, and follow the next step after they
 describe their creations to the group.
@@ -69,16 +33,20 @@ in the remaining space below their character description.
 
 Example Themes:
 Power.  What kind of person should be in charge during a crisis?
-Cloning.  Is the guy who just walked out of the pod actually your friend?
-Innocence.  Should children be exposed to the harsh realities of life?
+Cloning.  What rights should be afforded to those who are grown instead of born?
+Greed.  At what point is the reward not worth the effort?
 Robots.  What is the crossover point between a war machine and a man?
 
+Player character creation marks the end of the session zero, and the GM’s work begins.
+Between this session and the next one, you must create maps, history, people, and a short-term
+goal to get your players started.  Keep your player’s characters in mind when making this world,
+and include the things they want in it.  Create a place for them to start in, and some specific
+challenges and enemies for them to face.  Enemies should follow the same rules as player
+creation, though you don’t need to be as detailed about them.
 
-Finally, create a simple opening for the players.  A room, a crowded hallway, a farm,
-etc.  If you drew a map, put your drawing in the middle of the play space.
-Alternatively, you can describe the place verbally, and players draw it with their
-brains.  Describe the area, the immediate situation, and ask the players what they
-want to do first.
+At the first session, if you drew a map, put your drawing in the middle of the play space.
+Alternatively, you can describe the place verbally, and players draw it with their brains.  Describe
+the area, the immediate situation, and ask the players what they want to do first.
 
 
 ON BULLSHIT
@@ -95,6 +63,55 @@ And if there are any actions or situations not covered by the rules found here,
 bullshit those rules together, and fix them when you screw up.  Just be sure to
 record any new rules, so you can apply them consistently later.
 
+Finally, plan ahead!  You sjhould at least have the bones of a plan ready for each session
+before it starts.  Know where the players might want to go, and prepare something for there
+so you aren't caught with your pants down, unless some bullshit happens.
+
+
+CHARACTER CREATION
+Take a notecard.  This is your player sheet.  In the upper left hand corner, write
+your character’s name.  In the upper right hand corner, put your actual name.  Below
+that, write a paragraph about your character.  Their past and what they want should
+be more than enough to start.  Just make sure anything you write jives with the GM’s
+setting, because the GM has full authority to deny that character.  Ensure you create
+a character that can work with others, and is someone who actually wants to be there.
+Leave some space at the bottom, the GM will have you fill that later.
+
+On the other side of the card, write the following stats on the far left edge:
+Strength(Str) | Reflexes(Ref)
+Knowledge(Kno) | Intuition(Int)
+Charisma(Cha) | Awareness(Awa)
+
+Assign each a value 6 5 4 3 2 and 1, based on what strengths or weaknesses your
+character might have (a strong, stupid character would have Str 6 and Kno 1).
+Here’s a description of each stat:
+
+Strength: Physical prowess.  They can lift heavy things and swing swords hard.
+Reflexes: Their ability to dodge, balance, walk silently, and aim.
+Knowledge: The amount you know and your ability to pick up new things.
+Intuition: Life experience telling you which move is the right move.
+Charisma: Your ability to sway the opinions of others.
+Awareness: Your ability to read the opinions of others.  Being able to tell what is
+around you.
+
+Next to your stats, write in HP, with Max HP and AR below it.  HP is your Health Points.
+HP goes down when you are attacked, and goes up when you are healed.  If HP reaches 0,
+you fall unconscious until helped by a character.  Add your values for Strength, Intuition,
+and Awareness together, divide by 2, round up, and add 6.  This is your HP.  AR is your Armor
+Value, which reduces incoming damage.  Your AR is just your Reflexes, plus the value of any
+protective equipment you are wearing.
+
+Write “AP” below AR. Your starting AP is 10 + Kno.  AP is used to create "Abilities" for your
+character.  Characters should spend 6AP on abilities before the start of the game.  Abilities
+and AP are discussed later on.
+
+STARTING EQUIPMENT
+Each character will start with some basic equipment that would be natural for them to have.
+Since the player characters are weak, they should start with weak equipment.  Each piece of
+equipment should not improve a stat by more than +3, and all equipment combined should not
+exceed +6.  Players may also have mundane but useful materials on them, such as a light
+source, rope, or other items appropriate to the character.  All starting equipment must be
+approved by the GM.
 
 
 GAMEPLAY
@@ -115,14 +132,15 @@ ability.
 
 
 STAT CHECKS
-Basic actions that we do every day without thought or effort, such as opening doors
-or picking up light objects do not require any kind of check.  Things that require
+Basic actions that your character can do without thought or effort, such as opening doors
+or picking up certain objects do not require any kind of check.  Things that require
 effort or skill are done with Stat Checks, which is a dice roll added to a stat and
-an equipment bonus. EXAMPLE: Hacking a computer requires you beat a 10 in Knowledge,
+an equipment bonus. EG, Hacking a computer requires you beat a 10 in Knowledge,
 you have 4 Kno, and a +3 Hacking Implant.  So 4 + 3 + 1d6.  Alternatively, breaking
 the computer requires you beat a 4 in Strength.  You have 2 Str, and a +2
-broadsword, so 2 + 2 + 1d6.  Rolling a 1 is an instant failure at the task, and the
-GM supplies the number to be beaten.
+broadsword, so 2 + 2 + 1d6.  The easiest stat check should require the
+player to beat 3, the hardest to start should not go past 12, though the difficulty ceiling will
+increase as characters gain levels.
 
 
 EQUIPMENT
@@ -136,12 +154,19 @@ bonus, and cannot use that equipment’s unique abilities.  They will need to us
 for a (GM-determined) amount of time before unlocking its full potential.
 
 Items in the player’s inventory should be listed next to the character stats, with
-special items getting their own notecards.  The maximum amount of carryable
+special items getting their own scrap paper.  The maximum amount of carryable
 equipment is up to the discretion of the GM.
 
-Players may also collect resources, raw materials that are required to use certain
-abilities.  Resources may be used with abilities or on their own, depending on the
+Players may also collect resources, raw materials you carry with you that are required to use
+certain abilities.  Resources may be used with abilities or on their own, depending on the
 situation.  IE: Using grease to cause a fire.
+
+
+BONUS
+Characters are offered a bonus +2 to checks against enemies weak against the associated
+check, like using a water ability against a character made of fire.  This can also go the other way,
+though, with a -2 handicap to checks when the opponent is strong against that sort of thing, like
+flirting with someone the character just insulted.
 
 
 ABILITIES
@@ -149,15 +174,23 @@ Abilities are special actions and powers that require more than just regular
 effort.  These are spells, special moves, and miracles that can only be performed
 by special individuals (AKA: the player characters).  They are created by the
 players by spending Ability Points (AP) at any point during the first level, then
-only on level-up after that.  New abilities and their effects should be written
-on their own notecards separate from the player card.
+only on level-up after that.  Abilities can be used immediately upon creation,
+but each ability can only be used once between rests.  New abilities and their effects should be
+written on their own paper separate from the player card.
 
-Every player starts the game with 10AP, but gains 2AP on level-up, and can gain
+Every player starts the game with 10AP + Kno, but gains 2AP on level-up, and can gain
 additional AP from the GM as a reward for completing story-beats specific to the
-character.  Each ability they create uses 1AP per dice rolled, 1AP for each
-effect, and 1AP if the attack is at range.  1AP is removed if the ability expends
-a resource.  The GM has final say on how many AP are spent on an ability and how
-the effects work within the game.  All abilities cost a minimum of 1AP.
+character.
+
+Each ability they create costs:
+1AP per dice rolled
+1AP for each effect, powerful effects cost more AP (GM Discretion)
+1AP if the attack is at range, costing more AP per multiple of the GM's setting range
+1AP per body length diameter if the ability has an AOE effect
+1AP is removed if the ability expends a resource.
+The GM has final say on how many AP are spent on an ability and how
+the effects work within the game.
+All abilities cost a minimum of 1AP.
 
 Damaging abilities go against enemy armor (AR).  If the dice roll + equipment +
 stat are lower than AR, the attack does not hit and there is no effect.  If it IS
@@ -186,10 +219,10 @@ Always-active abilities that work in the background.  These cost slightly more t
 regular abilities, and are slightly less effective.
 
 EXAMPLES
-Handsome: Double Charisma on stat checks when speaking to someone who is attracted to
-you. 2AP
+Handsome: Double Charisma on stat checks when speaking to someone who has shown
+interest in you. 2AP
 Aura: unconscious characters around you regain 1HP and wake up if your turn ends
-within 5 feet of them.  2AP
+within 1 bodylength of them.  2AP
 
 
 ABSTRACT POINTS
@@ -202,10 +235,10 @@ drunken boxers.  These would be tracked by the player on the stat side of their 
 
 RESTING
 Resting can happen when the players are in a safe location, away from enemies, and
-agree to take a rest.  Resting refills HP and abstract points, removes effects that
-the GM allows, and marks a moment when nothing interesting happens, so you are free
-to go pee and get snacks.  If time is a significant factor in their setting, the GM
-should choose a number of rests that would mark the end of the day.
+agree to take a rest.  Resting refills HP and abstract points, resets used abilities,
+removes effects that the GM allows, and marks a moment when nothing interesting happens,
+so you are free to go pee and get snacks.  If time is a significant factor in their
+setting, the GM should choose a number of rests that would mark the end of the day.
 
 
 DEATH
