@@ -26,3 +26,18 @@ ____________________________________________________
 |________________|_________________________________|
 
 NOTE: Popularity is an abstract point system spent on abilities used to influence a crowd.
+
+
+Abilities
+Diss: Drop the Mother of All Insults on a character.  The target can no longer
+  influence a crowd and your popularity refills.
+  1d6 + Cha vs Int, target loses influence.  2AP
+
+Excuse: Get out of turning in an assignment without it affecting your grade.
+  2d6 + Cha vs Awa, -1 Popularity.  2AP
+
+Study: Go through your notes and gain some knowledge
+  2d6 + Kno temporarily added to Kno for one turn.  Uses one notebook.  1AP
+
+Get Attention: Get all eyes on you, or a subject you point to.
+  2d6 + Awa people see target. -1 popularity.  2AP
