@@ -19,7 +19,14 @@ ________________________________________________
 |Str  6     HP 13|  EQUIPMENT                  |
 |Ref  5 MAX HP 13|  Sword +2 Str               |
 |Kno  2     AR 5 |  Bow +1 Ref                 |
-|Int  4     AP 10|  Basic Rags                 |
+|Int  4     AP 6 |  Basic Rags                 |
 |Cha  1          |  Gold x5                    |
 |Awa  3          |                             |
 |________________|_____________________________|
+
+
+Abilities
+Smash: Tanza rams into her enemy, knocking them over.
+  1d6 + Str, knockdown  2AP
+BIG Smash: Tanza throws her entire body at full force into all enemies before her.
+  2d6 + Str, 1 unit AOE, throw opponents back 3 units, knockdown, Tanza falls prone 4AP
